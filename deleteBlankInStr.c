@@ -1,5 +1,4 @@
 #include <stdio.h>
-É¾³ý×Ö·û´®ÖÐµÄ¿Õ¸ñ
 void deleteBlankInStr(char *str)
 {
 	char *p1=str,*p2=str;
